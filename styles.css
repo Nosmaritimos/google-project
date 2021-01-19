@@ -7,9 +7,21 @@
   text-decoration: none;
   color: black;
   font-size: 14px;
+  margin-left: 8px;
+  margin-right: 8px;
 }
 .link:hover{
   text-decoration: underline;
+}
+.aps{
+  background-image: url(./images/appsuns.jpg);
+
+.aps:hover{
+background-image: url(./images/appssel.jpg);
+}
+
+.profile{
+  margin-left: 8px;
 }
 .logo{
   text-align: center;

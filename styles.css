@@ -13,14 +13,16 @@
   text-decoration: underline;
 }
 .aps{
+  margin-left: 10px;
+  margin-left: 10px;
   background-image: url(./images/appsuns.jpg);
-
+}
 .aps:hover{
 background-image: url(./images/appssel.jpg);
 }
 
 .profile{
-  margin-left: 8px;
+  margin-left: 10px;
 }
 .logo{
   text-align: center;

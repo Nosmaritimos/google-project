@@ -1,7 +1,6 @@
 .header{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: right;
-  
 }
 .link{
   text-decoration: none;
@@ -32,8 +31,7 @@ background-image: url(./images/appssel.jpg);
 .input{
   width: 600px;
   height: 40px;
-  border-;
-}
+  }
 .input:hover{
   border-image: repeat;
 }

@@ -13,9 +13,11 @@
   text-decoration: underline;
 }
 .aps{
+    padding: 10px;
   margin-left: 10px;
-  margin-left: 10px;
+  margin-right: 10px;
   background-image: url(./images/appsuns.jpg);
+  background-repeat: no-repeat;
 }
 .aps:hover{
 background-image: url(./images/appssel.jpg);
@@ -62,14 +64,29 @@ background-image: url(./images/appssel.jpg);
 .lang{
   text-decoration: none;
 }
+.country{
+  background-color: rgb(230, 230,230);
+  border-top: rgb(211, 211,211) solid 1px;
+  border-bottom: rgb(211, 211,211) solid 1px;
+  height: 40px;
+  position:fixed;
+  bottom: 40px;
+  width: 100%;
+  left: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .footer{
   background-color: rgb(230, 230,230);
   border-top: rgb(211, 211,211) solid 1px;
   border-bottom: rgb(211, 211,211) solid 1px;
   height: 40px;
-  vertical-align: middle;
+  width: 100%;
+  position:fixed;
+  bottom: 0;
+  left: 0;
 }
 .footer1{
+  margin-left: 10px;
   text-decoration: none;
   color: rgb(80, 80, 80);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
